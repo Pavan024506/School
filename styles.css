@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #F8F9FA; /* Light gray */
+    color: #333333; /* Dark gray for text */
+}
+
+.navbar {
+    background-color: #0ed200; /* Royal Blue */
+}
+
+.hero {
+    background: linear-gradient(to bottom, #0056D2, #FFD700); /* Blue to Yellow gradient */
+    color: white;
+    text-align: center;
+    padding: 5rem 1rem;
+}
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.section-title {
+    text-align: center;
+    margin: 2rem 0;
+    font-weight: bold;
+    color: #0056D2; /* Royal Blue */
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    color: #FF6F61; /* Soft Coral */
+}
+
+.bg-light {
+    background-color: #FFF8E1; /* Light yellow */
+}
+
+.btn-primary {
+    background-color: #0056D2;
+    border-color: #0056D2;
+}
+
+.btn-primary:hover {
+    background-color: #003D99;
+    border-color: #003D99;
+}
+
+footer {
+    background-color: #0056D2;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
